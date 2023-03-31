@@ -23,6 +23,7 @@ prev.addEventListener('click', () => {
   }
 
   // update();
+  ..
 });
 
 function update() {
